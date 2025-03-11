@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27c2c36b-c35d-4f0e-ad7a-9f4c560a4a75" name="Changes" comment="inizilization">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Data/Contact.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Data/Contact.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +35,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
@@ -66,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1741670172958</updated>
-      <workItem from="1741670174443" duration="1061000" />
+      <workItem from="1741670174443" duration="1619000" />
     </task>
     <task id="LOCAL-00001" summary="inizilization">
       <created>1741670466209</created>
